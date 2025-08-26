@@ -1,0 +1,19 @@
+{
+  "name": "cn.com.test",
+  "displayName": "Unity Mini Host Tool",
+  "description":  "Unity 小游戏宿主插件使得开发者可以上传自己构建好的游戏到宿主后台服务器，并通过Connect App扫码体验。",
+  "author": { 
+    "name": "You San Di Technology (Shanghai) Co., LTd." 
+  },
+  "version": "1.0.8",
+  "unity": "2019.4",
+  "category": "minigame",
+  "keywords": [
+    "Tuanjie",
+    "WeixinMiniGame",
+    "Unity"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
